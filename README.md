@@ -1,5 +1,5 @@
 # final
-Created with CodeSandbox
+Created with CodeSandbox by Mazen Mohsen
 
 Due to very short timeframe (me being busy and the test being sent to me 3-4 days instead of 1 week before deadline) the project has been built very simply and with some help of pre-existing code.
 
